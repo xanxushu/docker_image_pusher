@@ -1,2 +1,3 @@
 frooodle/s-pdf:latest
 nextcloud/all-in-one:latest
+asciidoctor/docker-asciidoctor:latest
