@@ -1,3 +1,5 @@
 frooodle/s-pdf:latest
 nextcloud/all-in-one:latest
 asciidoctor/docker-asciidoctor:latest
+node:22-bullseye-slim
+python:3.12.3-slim-bullseye
