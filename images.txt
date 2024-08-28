@@ -5,3 +5,4 @@ node:22-bullseye-slim
 python:3.12.3-slim-bullseye
 nginx:latest
 gitea/gitea:latest-rootless
+gitlab/gitlab-ce:latest
