@@ -7,3 +7,5 @@ nginx:latest
 gitea/gitea:latest-rootless
 gitlab/gitlab-ce:latest
 rustdesk/rustdesk-server:latest
+metabase/metabase:latest
+postgres:latest
