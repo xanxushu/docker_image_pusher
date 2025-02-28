@@ -9,3 +9,4 @@ gitlab/gitlab-ce:latest
 rustdesk/rustdesk-server:latest
 metabase/metabase:latest
 postgres:latest
+baserow/baserow:latest
