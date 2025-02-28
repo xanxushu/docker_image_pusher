@@ -10,3 +10,4 @@ rustdesk/rustdesk-server:latest
 metabase/metabase:latest
 postgres:latest
 baserow/baserow:latest
+nocodb/nocodb:latest
