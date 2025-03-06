@@ -11,3 +11,4 @@ metabase/metabase:latest
 postgres:latest
 baserow/baserow:latest
 nocodb/nocodb:latest
+apitable/all-in-one:latest
