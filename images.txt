@@ -12,3 +12,6 @@ postgres:latest
 baserow/baserow:latest
 nocodb/nocodb:latest
 apitable/all-in-one:latest
+mathesar/mathesar-caddy:latest
+mathesar/mathesar:latest
+pgautoupgrade/pgautoupgrade:17-bookworm
