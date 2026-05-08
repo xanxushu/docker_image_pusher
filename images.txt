@@ -1,5 +1,1 @@
-pgvector/pgvector:pg16
-redis:7.4-alpine
-apache/tika:3.3.0.0-full
-ollama/ollama:latest
-ghcr.io/open-webui/open-webui:main
+1panel/maxkb:latest
