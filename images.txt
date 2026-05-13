@@ -1,4 +1,1 @@
-pgsty/minio:RELEASE.2026-03-25T00-00-00Z
-valkey/valkey:8
-elasticsearch:8.11.3
-mysql:8.0.39
+registry.cn-hangzhou.aliyuncs.com/infiniflow/ragflow:v0.25.2 
