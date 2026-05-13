@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/infiniflow/ragflow:v0.25.2 
+infiniflow/ragflow:v0.25.2
